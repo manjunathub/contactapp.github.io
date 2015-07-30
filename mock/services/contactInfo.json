@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "prefix": null,
+        "fname": "Manjunath",
+        "mname": "Bhimaraya",
+        "lname": "Uppar",
+        "organization": "Celestial Systems Pvt Ltd",
+        "position": "Sr. Software Engineer",
+        "imageUrl": "",
+        "streetAddress": "",
+        "extendedAddress":"",
+        "city": "",
+        "state": "",
+        "country": "",
+        "pincode": "",
+
+        "phoneNumbers": [
+            {
+                "id": 1,
+                "value": "+919686676665",
+                "type": "Mobile",
+                "viewType": "phone"
+            },
+            {
+                "id": 2,
+                "value": "+919731058321",
+                "type": "Work",
+                "viewType": "phone"
+            }
+        ],
+        "emails": [
+            {
+                "id": 1,
+                "value": "home@mail.com",
+                "type": "Home",
+                "viewType": "email"
+            },
+            {
+                "id": 2,
+                "value": "work@mail.com",
+                "type": "Work",
+                "viewType": "email"
+            },
+            {
+                "id": 4,
+                "value": "test@mail.com",
+                "type": "Test",
+                "viewType": "email"
+            }
+        ],
+        "urls": [
+            {
+                "id": 1,
+                "value": "http://www.gmail.com",
+                "type": "Other",
+                "viewType": "url"
+            }
+        ],
+        "dates": [
+            {
+                "id": 1,
+                "value": "Thu Jul 30 2015 17:24:22 GMT+0530 (IST)",
+                "type": "Date Of Birth",
+                "viewType": "date"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "prefix": "",
+        "fname": "Ashok",
+        "mname": null,
+        "lname": null,
+        "organization": "Celestial Systems Pvt Ltd",
+        "position": "Sr. Software Engineer",
+        "imageUrl": null,
+        "streetAddress": "",
+        "extendedAddress":"",
+        "city": "",
+        "state": "",
+        "country": "",
+        "pincode": "",
+
+        "phoneNumbers": [
+            {
+                "id": 1,
+                "value": "0123456789",
+                "type": "Mobile",
+                "viewType": "phone"
+            }
+        ],
+        "emails": [
+            {
+                "id": 1,
+                "value": "home@mail.com",
+                "type": "Home",
+                "viewType": "email"
+            },
+            {
+                "id": 2,
+                "value": "work@mail.com",
+                "type": "Work",
+                "viewType": "email"
+            }
+        ],
+        "urls": [
+            {
+                "id": 1,
+                "value": "http://www.gmail.com",
+                "type": "Other",
+                "viewType": "url"
+            }
+        ],
+        "dates": []
+    }
+]
